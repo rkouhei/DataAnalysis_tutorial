@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+mlxtend
+rpy2
+pyaudio
+mpl_finance
+seaborn
+opencv-python
