@@ -1,1 +1,5 @@
-statistics/
+# サンプルコード
+Ohmsha_DataScience/Sample
+
+# jupyternotebook
+**/*.ipynb_checkpoints/
