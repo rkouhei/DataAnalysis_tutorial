@@ -1,5 +1,6 @@
 # サンプルコード
 Ohmsha_DataScience/Sample
 
-# jupyternotebook
+# 管理対象外
 **/*.ipynb_checkpoints/
+**/*.png
